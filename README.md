@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.adding 
 added a line for rebasing
-more changesfrom myfeature branch
+emergencyh fix line
 ## Purpose
 
 Sample website with plenty of files for demosaa
