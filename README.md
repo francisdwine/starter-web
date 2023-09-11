@@ -15,4 +15,4 @@ dadadadada naay text
 please fork this repository and then issue pull request for review
 ###Copyright
 
-2014.git training
+2014.git training allrights reserved
