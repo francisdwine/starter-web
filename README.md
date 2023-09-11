@@ -11,3 +11,7 @@ dadadadadda
 ##Deployment
 dadadadada naay text
 ##how to contribute
+
+###Copyright
+
+2014.git training
