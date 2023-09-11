@@ -11,7 +11,7 @@ dadadadadda
 ##Deployment
 dadadadada naay text
 ##how to contribute
-
+please fork this repository and then issue pull request for review
 ###Copyright
 
 2014.git training
